@@ -2,7 +2,7 @@
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   background-image:url(src/img/background.jpg);
   background-color: #cccccc;
-  height: auto;
+  height: 80vh;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -13,8 +13,9 @@
 }
 
 #text{
-  padding-top: 80px;
+  padding-top: 20vh;
   padding-bottom: 64px;
+  font-size: 1.5rem;
 }
 h2{
   font-weight: 700;
